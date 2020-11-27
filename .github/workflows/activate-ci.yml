@@ -1,0 +1,16 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+    tags:
+      - v*
+  pull_request:
+
+jobs:
+  hello:
+    name: Hello trigger CI pls
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "hello world!"
