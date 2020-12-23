@@ -1,5 +1,7 @@
 # Dugite - The Native Bits
 
+# HI TESTING HERE
+
 [![Travis Build Status](https://api.travis-ci.com/desktop/dugite-native.svg?token=vdtkHSqgzNMgfyZkfVbP&branch=master)](https://travis-ci.com/desktop/dugite-native)
 [![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/j0mmb48vs7imoour/branch/master?svg=true)](https://ci.appveyor.com/project/github-windows/dugite-native/branch/master)
 
